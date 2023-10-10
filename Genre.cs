@@ -1,0 +1,32 @@
+namespace Project
+{
+  public enum GENRE
+  {
+    Fiction,
+    NonFiction,
+    Mystery,
+    ScienceFiction,
+    Romance,
+    Fantasy,
+    Thriller,
+    Horror,
+    Biography,
+    History,
+    SelfHelp,
+    Comedy,
+    Drama,
+    Action,
+    Adventure,
+    Animation,
+    Documentary,
+    Music,
+    SciFi,
+    FantasyFilm,
+    Pop,
+    Rock,
+    Jazz,
+    Country,
+    Electronic,
+    Crime
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/roundspecs/Documents/c#/MediaInventory/MediaInventory.csproj": {}
+  },
+  "projects": {
+    "/home/roundspecs/Documents/c#/MediaInventory/MediaInventory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/roundspecs/Documents/c#/MediaInventory/MediaInventory.csproj",
+        "projectName": "MediaInventory",
+        "projectPath": "/home/roundspecs/Documents/c#/MediaInventory/MediaInventory.csproj",
+        "packagesPath": "/home/roundspecs/.nuget/packages/",
+        "outputPath": "/home/roundspecs/Documents/c#/MediaInventory/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/roundspecs/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

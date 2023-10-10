@@ -1,0 +1,15 @@
+/home/roundspecs/Documents/c#/MediaInventory/bin/Debug/net6.0/MediaInventory
+/home/roundspecs/Documents/c#/MediaInventory/bin/Debug/net6.0/MediaInventory.deps.json
+/home/roundspecs/Documents/c#/MediaInventory/bin/Debug/net6.0/MediaInventory.runtimeconfig.json
+/home/roundspecs/Documents/c#/MediaInventory/bin/Debug/net6.0/MediaInventory.dll
+/home/roundspecs/Documents/c#/MediaInventory/bin/Debug/net6.0/ref/MediaInventory.dll
+/home/roundspecs/Documents/c#/MediaInventory/bin/Debug/net6.0/MediaInventory.pdb
+/home/roundspecs/Documents/c#/MediaInventory/obj/Debug/net6.0/MediaInventory.csproj.AssemblyReference.cache
+/home/roundspecs/Documents/c#/MediaInventory/obj/Debug/net6.0/MediaInventory.GeneratedMSBuildEditorConfig.editorconfig
+/home/roundspecs/Documents/c#/MediaInventory/obj/Debug/net6.0/MediaInventory.AssemblyInfoInputs.cache
+/home/roundspecs/Documents/c#/MediaInventory/obj/Debug/net6.0/MediaInventory.AssemblyInfo.cs
+/home/roundspecs/Documents/c#/MediaInventory/obj/Debug/net6.0/MediaInventory.csproj.CoreCompileInputs.cache
+/home/roundspecs/Documents/c#/MediaInventory/obj/Debug/net6.0/MediaInventory.dll
+/home/roundspecs/Documents/c#/MediaInventory/obj/Debug/net6.0/ref/MediaInventory.dll
+/home/roundspecs/Documents/c#/MediaInventory/obj/Debug/net6.0/MediaInventory.pdb
+/home/roundspecs/Documents/c#/MediaInventory/obj/Debug/net6.0/MediaInventory.genruntimeconfig.cache
